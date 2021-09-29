@@ -21,6 +21,10 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ---
 
+[![misha98857 Github Stats](https://github-readme-stats.vercel.app/api?username=misha98857&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <table>
   <tr>
     <td>
@@ -31,9 +35,3 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
     </td>
   </tr>
 </table>
-
----
-
-[![misha98857 Github Stats](https://github-readme-stats.vercel.app/api?username=misha98857&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
