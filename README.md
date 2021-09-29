@@ -10,16 +10,7 @@ My best skills: Angular, Ionic, React, Python, Flask, Web Scraping.
 
 I’m currently working on https://play.google.com/store/apps/details?id=dev.misha98857.react_article and https://play.google.com/store/apps/details?id=dev.misha98857.react
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=misha98857&theme=algolia" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misha98857&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=misha98857&theme=algolia" alt="webDev's Github stats" />
 
 ---
 
