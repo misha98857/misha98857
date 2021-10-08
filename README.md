@@ -2,7 +2,7 @@
 
 I'm Mikhail.
 
-I find work Angular\Ionic developer. You can contact me cataha319@gmail.com.
+I developer from EPAM SYSTEMS. My core tech stack is Angular\Ionic. You can contact me cataha319@gmail.com.
 
 My best skills: Angular, Ionic, React, Python, Flask, Web Scraping.
 
