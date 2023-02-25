@@ -16,6 +16,11 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ---
 
+### Badges
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857"/>
+
+---
+
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://profile.codersrank.io/user/misha98857" target="_blank">
