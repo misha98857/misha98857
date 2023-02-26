@@ -16,7 +16,7 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ---
 
-### Badges (Work doesn't count)
+### Badges
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857"/>
 
 ---
