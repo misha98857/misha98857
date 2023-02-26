@@ -21,7 +21,7 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ---
 
-<h2 align="center">Languages and Tools:</h3>
+### Languages and Tools
 <p align="center">
   <a href="https://profile.codersrank.io/user/misha98857" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=misha98857&width=820&branding=true&sort-by-score=true" alt="CodersRank skills chart"/>
