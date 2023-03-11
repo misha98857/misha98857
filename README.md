@@ -12,12 +12,16 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ### ⚙️ GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=misha98857&theme=algolia" alt="webDev's Github stats" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=misha98857&theme=algolia" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misha98857&theme=algolia" alt="webDev's Github stats" />
+</a>
 
 ---
 
 ### Badges
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857"/>
+<a href="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857" target="_blank">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857"/>
+</a>
 
 ---
 
