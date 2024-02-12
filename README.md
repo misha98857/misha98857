@@ -4,7 +4,7 @@ I'm Mikhail.
 
 I'm developer from Skyeng. My core tech stack is Angular\Ionic. You can contact me cataha319@gmail.com.
 
-My best skills: Angular, Ionic, React, Python, Flask, Web Scraping.
+My best skills: Angular, Ionic, React, Python, Flask, Web Scraping. Maybe Nest?
 
 ---
 
