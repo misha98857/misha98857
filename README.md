@@ -20,9 +20,11 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 ### Badges (Calculated by hobby projects hosted on GitHub)
 [![wakatime](https://wakatime.com/badge/user/58503278-16ef-4295-9679-964af61cc854.svg)](https://wakatime.com/@58503278-16ef-4295-9679-964af61cc854)
+<!--
 <a href="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857" target="_blank">
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857"/>
 </a>
+-->
 
 ---
 
