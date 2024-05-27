@@ -2,9 +2,12 @@
 
 I'm Mikhail.
 
-I'm developer from Skyeng. My core tech stack is Angular\Ionic. You can contact me cataha319@gmail.com.
-
 My best skills: Angular, Ionic, NestJS, React, Python, Flask, Web Scraping.
+
+I'm developer from Skyeng/Skysmart. My core tech stack is Angular\Ionic. You can contact me cataha319@gmail.com.
+
+[Skyeng](https://skyeng.ru/) is the largest English language school in Europe
+[Skysmart](https://skysmart.ru/) is an online school for kids
 
 ---
 
