@@ -28,3 +28,11 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=misha98857&width=820&branding=true&sort-by-score=true" alt="CodersRank skills chart"/>
   </a>
 </p>
+
+### Badges (Calculated by hobby projects hosted on GitHub)
+
+<p align="center">
+  <a href="https://profile.codersrank.io/user/misha98857" target="_blank">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857&badges=2" alt="CodersRank badges"/>
+  </a>
+</p>
