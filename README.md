@@ -33,6 +33,6 @@ I’m currently working on https://play.google.com/store/apps/details?id=dev.mis
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/misha98857" target="_blank">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857&badges=2" alt="CodersRank badges"/>
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=misha98857&badges=3" alt="CodersRank badges"/>
   </a>
 </p>
