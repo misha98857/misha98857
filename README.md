@@ -47,7 +47,7 @@
 
 🏃‍♂️ **[React Article App](https://play.google.com/store/apps/details?id=dev.misha98857.react_article)** - Mobile application on Google Play Store
 
-📄 [angular-docs.ru](https://angular-docs.ru) - Russian translation of Angular documentation
+📄 **[angular-docs.ru](https://angular-docs.ru)** - Russian translation of Angular documentation
 
 🔧 **Pet Projects Development** - Continuous learning of new technologies and approaches
 
