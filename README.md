@@ -13,6 +13,8 @@
 🎯 **Core Stack:** Angular, Capacitor, Ionic, TypeScript  
 🔧 **Additional Skills:** NestJS, React, Python, Flask, Web Scraping  
 📧 **Contact:** cataha319@gmail.com
+👨‍💻 **Blog**
+https://t.me/misha98857_dev
 
 ---
 
