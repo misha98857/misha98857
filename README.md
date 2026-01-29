@@ -51,32 +51,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misha98857&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=misha98857&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=misha98857&theme=onedark&column=7)
-
-</div>
-
----
-
 ## 🌟 Activity
 
 <div align="center">
